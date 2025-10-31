@@ -16,5 +16,3 @@ I'm a final year BSc (Hons) Computer Science student. Right now I'm wrapping up 
 - Smart Course Selector (final year)
 - Games / experiments from uni
 - Small assignments so recruiters can see consistency
-
----
