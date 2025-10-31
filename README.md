@@ -13,6 +13,6 @@ I'm a final year BSc (Hons) Computer Science student. Right now I'm wrapping up 
 **Other:** SQL, OOP, Git
 
 ## A few things I'm putting on GitHub
-- Smart Course Selector (final year)
+- Smart Course Selector
 - Games / experiments from uni
 - Small assignments so recruiters can see consistency
