@@ -1,6 +1,6 @@
 # Hey, I'm Murtaza 👋
 
-I'm a final year BSc (Hons) Computer Science student. Right now I'm wrapping up my final year project and cleaning up some uni projects so I can actually show them to people.
+I'm a First Class BSc (Hons) Computer Science Graduate.
 
 - 🎓 Final year project: **Smart Course Selector** (helps students pick the best course/path)
 - 💻 I like working on: web stuff, small tools, and anything that uses data in a useful way
